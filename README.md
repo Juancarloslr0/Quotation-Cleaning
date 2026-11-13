@@ -64,4 +64,4 @@ Desde la raíz del repositorio:
 └── requirements.txt
 ```
 
-Los datos de ejemplo son sintéticos; los archivos reales van en data/private/ (ignorada por Git)
+Los datos de ejemplo son sintéticos
